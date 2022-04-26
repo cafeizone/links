@@ -75,15 +75,19 @@ button:hover,
 /* Brand Styles
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
-/* Default (this is great for your own brand color!) */
+/* default */
 .button.button-default {
-  color: #FFFFFF;
-  background-color: #0085FF }
-.button.button-default:hover,
-.button.button-default:focus {
-  filter: brightness(90%) }
-
-
+    color: #b4dc02;
+    border-style: solid;
+    border-color: #000000;
+    border-width: 2px;
+    background-color: #ffffff;
+  }
+  .button.button-default:hover,
+  .button.button-default:focus {
+    filter: brightness(90%);
+  }
+  
 /* Deafault alt */
 .button.button-default-alt {
   color: #ffffff;
@@ -95,17 +99,6 @@ button:hover,
   filter: brightness(90%);
 }
 
-
-/* Default Alt 2 */
-.button.button-default-alt-2 {
-  color: #100a26;
-  font-family: obritron;
-  background-color: #ffdd00;
-}
-.button.button-default-alt-2:hover,
-.button.button-default-alt-2:focus {
-  filter: brightness(90%);
-}
   
 
 /* Vercel */
@@ -115,16 +108,6 @@ button:hover,
 .button.button-vercel:hover,
 .button.button-vercel:focus {
   filter: brightness(90%) }
-
-/* Default (this is great for your own brand color!) */
-.button.button-default {
-  color: #ffffff;
-  background-color: #0085ff;
-}
-.button.button-default:hover,
-.button.button-default:focus {
-  filter: brightness(90%);
-}
 
 /* Bandcamp */
 .button.button-bandcamp {
@@ -271,19 +254,6 @@ button:hover,
 }
 .button.button-medium:hover,
 .button.button-medium:focus {
-  filter: brightness(90%);
-}
-
-/* Notion */
-.button.button-notion {
-  color: #000000;
-  border-style: solid;
-  border-color: #000000;
-  border-width: 2px;
-  background-color: #ffffff;
-}
-.button.button-notion:hover,
-.button.button-notion:focus {
   filter: brightness(90%);
 }
 
