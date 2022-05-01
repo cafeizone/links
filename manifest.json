@@ -32,7 +32,7 @@
         "short_name": "Phone",
         "description": "Call iSwap",
         "url": "tel:+918800414231",
-        "icons": [{ "src": "icons/used/home/call.svg"}]
+        "icons": [{ "src": "/icons/used/home/phone.png", "sizes": "96x96" }]
       }
     ]
 
