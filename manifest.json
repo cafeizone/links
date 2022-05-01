@@ -5,16 +5,16 @@
     "short_name": "iSwap",
     "icons": [{
       "src": "images/favicon.png",
-      "sizes": "256x256",
+      "sizes": "306x306",
       "type": "image/png"
     }, {
       "src": "images/favicon@2x.png",
-      "sizes": "512x512",
+      "sizes": "612x612",
       "type": "image/png",
       "purpose": "maskable"
     }, {
       "src": "images/logo-100-precent.png",
-      "sizes": "612x612",
+      "sizes": "306x306",
       "type": "image/png"
     }],
     "scope": "/",
