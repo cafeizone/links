@@ -27,11 +27,11 @@
 
     "shortcuts": [
       {
-        "name": "Schedule a meeting with us",
-        "short_name": "Schedule a meet",
-        "description": "Schedule a meeting with us to get your queries sorted",
-        "url": "/meet.html",
-        "icons": [{ "src": "/meta/ogimage/meet.png", "sizes": "256x256" }]
+        "name": "Call us",
+        "short_name": "Call",
+        "description": "Call iSwap",
+        "url": "tel:+918800414231",
+        "icons": [{"src": "/icons/used/home/call.svg", "sizes"}]
       }
     ]
 
