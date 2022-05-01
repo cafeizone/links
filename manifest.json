@@ -25,14 +25,16 @@
     "background_color": "black",
     "orientation": "portrait-primary",
 
+  
     "shortcuts": [
       {
-        "name": "Call us",
-        "short_name": "Call",
+        "name": "Call",
+        "short_name": "Phone",
         "description": "Call iSwap",
         "url": "tel:+918800414231",
-        "icons": [{"src": "/icons/used/home/call.svg", "sizes"}]
+        "icons": [{ "src": "icons/used/home/call.svg"}]
       }
     ]
+
 
   }
